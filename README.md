@@ -17,6 +17,10 @@ This is an early draft. If you get stuck running notebooks, please search the [f
 
 If you make any pull requests to this repo, then you are assigning copyright of that work to Jeremy Howard and Sylvain Gugger. (Additionally, if you are making small edits to spelling or text, please specify the name of the file and a very brief description of what you're fixing. It's difficult for reviewers to know which corrections have already been made. Thank you.)
 
+## Short notes:
+
+- [01_intro](https://github.com/rohit18115/fastbook/blob/master/README_01_intro.md)
+
 ## Citations
 
 If you wish to cite the book, you may use the following:
